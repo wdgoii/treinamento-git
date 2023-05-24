@@ -1,7 +1,4 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
-<<<<<<< HEAD
 alteracao no github 
-=======
 segunda linha
->>>>>>> 01ead86 (seg Linha alice.txt)
 correcao final
