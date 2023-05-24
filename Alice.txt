@@ -1,4 +1,9 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
 alteracao no github 
 segunda linha
+<<<<<<< HEAD
 correcao final
+=======
+terceira linha change_alice
+quarta linha de alice - master
+>>>>>>> 3f09a50 (master alice.txt quarta linha)
